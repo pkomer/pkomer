@@ -3,14 +3,18 @@
 <!--
 **pkomer/pkomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning [what you're studying, e.g., "Computer Programing at Iternational Yout Fellowsip"].
+- I'm interested in [your interests, e.g., "AI, web development, and data analytics"].
+- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+- [Add others, e.g., "none"]
+
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: [pkomer2005@yahoo.com]
+- LinkedIn: [your LinkedIn profile link]
