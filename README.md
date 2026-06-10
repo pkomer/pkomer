@@ -10,11 +10,11 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [Add others, e.g., "none"]
+- [Add others, e.g., "Data analysis, coding"]
 
 ## Current Projects
-- [Project name](link) — short description
+- [My profile](github.com/pkomer) — Creating my profile on Githubription
 
 ## How to Reach Me
 - Email: [pkomer2005@yahoo.com]
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: [https://www.linkedin.com/in/purity komer]
